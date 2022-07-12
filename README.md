@@ -1,3 +1,3 @@
 #WAX-CAKE
 
-Portfolio and Digital Resume
+Login and Signup page
